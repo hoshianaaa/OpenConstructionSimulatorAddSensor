@@ -17,9 +17,8 @@ public class ModeManeger : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        automation_toggle.isOn = true;
     }
-
     // Update is called once per frame
     void Update()
     {
